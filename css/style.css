@@ -1,0 +1,36 @@
+.site-header{
+  background: #f48342;
+  color: #333;
+    padding: 12px;
+}
+ .container-fluid>.navi li a {
+    color: white;
+}
+
+.main {
+    background-color: #3aa5cc;
+}
+.sidebar {
+    background-color: rgba(16, 36, 69, 0.34);
+}
+
+.footer-end {
+    background-color: rgba(16, 36, 69, 0.34);
+}
+.pancake a{
+    font-size: 30px;
+}
+
+.red i{
+    color: red;
+}
+
+.color i {
+    color: #3b5998;
+    font-size: 30px;
+}
+.color a{
+    color: #dd4b39;
+    font-size: 30px;
+}
+
